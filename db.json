@@ -5,14 +5,8 @@
 			"last_name": "Thamelt",
 			"gender": "Male",
 			"card_type": "visa"
-		},
-		{
-			"id": 2,
-			"first_name": "Brice",
-			"last_name": "Shoveller",
-			"gender": "Female",
-			"card_type": "maestro"
-		},
+		},{
+			"id": 2,"first_name": "Brice","last_name": "Shoveller","gender": "Female","card_type": "maestro"},
 		{
 			"id": 3,
 			"first_name": "Trefor",
